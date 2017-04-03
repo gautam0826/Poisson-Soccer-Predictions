@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# read input csv files\nresults <- read.csv(file=\"Model2Input.csv\", header=TRUE, sep=\",\")\nfixtures <- read.csv(file=\"Model2Fixtures.csv\", header=TRUE, sep=\",\")\npredictions <- data.frame()\n\n# create glm that takes into account team/opponent's strength and home field advantage\nmodel <- glm(Goals ~ Team + Opponent + Home, family=poisson(link=log), data=results)\n\n# given goal estimations adds mode score and win, over/under, clean sheet, mode score probabilities to predictions data frame\npoisson_model <- function(predictions, date, home_team, away_team, x_home, x_away)\n{\n  # get probabilities per goal\n  home_goals <- dpois(0:10, x_home) \n  away_goals <- dpois(0:10, x_away)\n  \n  # convert probability vectors into score matrix\n  score_matrix <- home_goals %o% away_goals\n  \n  # get probabilities for home, draw, away win\n  home_prob <- sum(score_matrix[lower.tri(score_matrix)])\n  away_prob <- sum(score_matrix[upper.tri(score_matrix)])\n  draw_prob <- sum(diag(score_matrix))\n  \n  # get clean sheet probabilities\n  home_CS <- sum(score_matrix[,1])\n  away_CS <- sum(score_matrix[1,])\n  \n  # get under 2.5 goals probability, and mode score\n  under_prob <- 0\n  mode_home <- 0\n  mode_away <- 0\n  mode_prob <- 0\n  \n  # loop through score matrix\n  for (i in 1:nrow(score_matrix))\n  {\n    for (j in 1:ncol(score_matrix))\n    {\n      if (score_matrix[i,j] > mode_prob)\n      {\n        mode_prob = score_matrix[i,j]\n        mode_home <- i - 1 # rows/columns indexed starting at 1\n        mode_away <- j - 1 # so decrement to get actual goal numbers\n      }\n      if (i + j - 2 < 2.5)\n      {\n        under_prob <- under_prob + score_matrix[i,j]\n      }\n    }\n  }\n  # probability of over is just 1 - under\n  over_prob <- 1 - under_prob\n  \n  # add to data frame\n  predictions <- rbind(predictions, data.frame(date, home_team, away_team, home_prob, draw_prob, away_prob, mode_home, mode_away, mode_prob, over_prob, under_prob, home_CS, away_CS))\n  \n  return(predictions)\n}\n\n# loop through fixtures and add probabilities to predictions dataframe. Two rows are one game to increment by 2\nfor (i in seq(1,nrow(fixtures), 2)) \n{\n  date = fixtures[i,1]\n  home_team = fixtures[i,2]\n  away_team = fixtures[i,3]\n  \n  # calculate estimations for goals scored\n  x_home <- predict(model, fixtures[i,], type = \"response\")\n  x_away <- predict(model, fixtures[i+1,], type = \"response\")\n  \n  #run poisson model and store results\n  predictions <- poisson_model(predictions, date, home_team, away_team, x_home, x_away)\n}\n# write predictions to csv file\nwrite.csv(predictions, file = \"Model2Results.csv\",row.names=FALSE)\n\n# write glm's attack and defence strengths to csv file\nstrengths <- coef(model)\nwrite.csv(strengths, file = \"Model2AttackDefenceStrengths.csv\",row.names=TRUE)",
+    "created" : 1491181716238.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4133604968",
+    "id" : "8094AC55",
+    "lastKnownWriteTime" : 1491181605,
+    "last_content_update" : 1491181605,
+    "path" : "C:/Users/Gautam/Dropbox/newWorkspace/Poisson/Model2.R",
+    "project_path" : "Model2.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

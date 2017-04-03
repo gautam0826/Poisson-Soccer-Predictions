@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# given goal estimations adds mode score and win, over/under, clean sheet, mode score probabilities to predictions data frame\npoisson_model <- function(predictions, date, home_team, away_team, x_home, x_away)\n{\n  # get probabilities per goal\n  home_goals <- dpois(0:10, x_home) \n  away_goals <- dpois(0:10, x_away)\n  \n  # convert probability vectors into score matrix\n  score_matrix <- home_goals %o% away_goals\n  \n  # get probabilities for home, draw, away win\n  home_prob <- sum(score_matrix[lower.tri(score_matrix)])\n  away_prob <- sum(score_matrix[upper.tri(score_matrix)])\n  draw_prob <- sum(diag(score_matrix))\n  \n  # get clean sheet probabilities\n  home_CS <- sum(score_matrix[,1])\n  away_CS <- sum(score_matrix[1,])\n  \n  # get under 2.5 goals probability, and mode score\n  under_prob <- 0\n  mode_home <- 0\n  mode_away <- 0\n  mode_prob <- 0\n  \n  # loop through score matrix\n  for (i in 1:nrow(score_matrix))\n  {\n    for (j in 1:ncol(score_matrix))\n    {\n      if (score_matrix[i,j] > mode_prob)\n      {\n        mode_prob = score_matrix[i,j]\n        mode_home <- i - 1 # rows/columns indexed starting at 1\n        mode_away <- j - 1 # so decrement to get actual goal numbers\n      }\n      if (i + j - 2 < 2.5)\n      {\n        under_prob <- under_prob + score_matrix[i,j]\n      }\n    }\n  }\n  # probability of over is just 1 - under\n  over_prob <- 1 - under_prob\n  \n  # add to data frame\n  predictions <- rbind(predictions, data.frame(date, home_team, away_team, home_prob, draw_prob, away_prob, mode_home, mode_away, mode_prob, over_prob, under_prob, home_CS, away_CS))\n  \n  return(predictions)\n}\n# read input csv files\ninput <- read.csv(file=\"Model1Input.csv\", header=TRUE, sep=\",\")\npredictions <- data.frame()\n\n# loop through input data and add probabilities to predictions dataframe\nfor (i in 1:nrow(input)) \n{\n  # get data from input data frame\n  date <- input[i, \"Date\"]\n  home_team <- input[i, \"Home.Team\"]\n  away_team <- input[i, \"Away.Team\"]\n  home_GFPG <- input[i, \"Home.GFpG\"]\n  home_GAPG <- input[i, \"Home.GApG\"]\n  away_GFPG <- input[i, \"Away.GFpG\"]\n  away_GAPG <- input[i, \"Away.GApG\"]\n  league_avg_home_GFPG <- input[i, \"League.GFpG\"]\n  league_avg_home_GAPG <- input[i, \"League.GApG\"]\n  \n  # calculate estimations for goals scored\n  scaled_home_defence = home_GAPG/league_avg_home_GAPG\n  scaled_away_defence = away_GAPG/league_avg_home_GFPG #home goals for per game = away goals against per game\n  x_home = home_GFPG*scaled_away_defence\n  x_away = away_GFPG*scaled_home_defence\n  \n  # run poisson model and store results\n  predictions <- poisson_model(predictions, date, home_team, away_team, x_home, x_away)\n}\n\n# write predictions to csv file\nwrite.csv(predictions, file = \"Model1Results.csv\",row.names=FALSE)",
+    "created" : 1491181719542.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3719046411",
+    "id" : "B0F06852",
+    "lastKnownWriteTime" : 1491181621,
+    "last_content_update" : 1491181621,
+    "path" : "C:/Users/Gautam/Dropbox/newWorkspace/Poisson/Model1.R",
+    "project_path" : "Model1.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

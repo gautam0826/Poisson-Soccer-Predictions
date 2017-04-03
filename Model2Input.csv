@@ -1,0 +1,567 @@
+Date,Team,Opponent,Goals,Home
+Sat. 13 Aug.,Hull City,Leicester City,2,1
+Sat. 13 Aug.,Leicester City,Hull City,1,0
+Sat. 13 Aug.,Southampton,Watford,1,1
+Sat. 13 Aug.,Watford,Southampton,1,0
+Sat. 13 Aug.,Everton,Tottenham,1,1
+Sat. 13 Aug.,Tottenham,Everton,1,0
+Sat. 13 Aug.,Crystal Palace,West Bromwich,0,1
+Sat. 13 Aug.,West Bromwich,Crystal Palace,1,0
+Sat. 13 Aug.,Middlesbrough,Stoke City,1,1
+Sat. 13 Aug.,Stoke City,Middlesbrough,1,0
+Sat. 13 Aug.,Burnley,Swansea City,0,1
+Sat. 13 Aug.,Swansea City,Burnley,1,0
+Sat. 13 Aug.,Manchester City,Sunderland,2,1
+Sat. 13 Aug.,Sunderland,Manchester City,1,0
+Sun. 14 Aug.,Bournemouth,Manchester Utd,1,1
+Sun. 14 Aug.,Manchester Utd,Bournemouth,3,0
+Sun. 14 Aug.,Arsenal,Liverpool,3,1
+Sun. 14 Aug.,Liverpool,Arsenal,4,0
+Mon. 15 Aug.,Chelsea,West Ham Utd,2,1
+Mon. 15 Aug.,West Ham Utd,Chelsea,1,0
+Fri. 19 Aug.,Manchester Utd,Southampton,2,1
+Fri. 19 Aug.,Southampton,Manchester Utd,0,0
+Sat. 20 Aug.,Stoke City,Manchester City,1,1
+Sat. 20 Aug.,Manchester City,Stoke City,4,0
+Sat. 20 Aug.,Tottenham,Crystal Palace,1,1
+Sat. 20 Aug.,Crystal Palace,Tottenham,0,0
+Sat. 20 Aug.,West Bromwich,Everton,1,1
+Sat. 20 Aug.,Everton,West Bromwich,2,0
+Sat. 20 Aug.,Burnley,Liverpool,2,1
+Sat. 20 Aug.,Liverpool,Burnley,0,0
+Sat. 20 Aug.,Watford,Chelsea,1,1
+Sat. 20 Aug.,Chelsea,Watford,2,0
+Sat. 20 Aug.,Swansea City,Hull City,0,1
+Sat. 20 Aug.,Hull City,Swansea City,2,0
+Sat. 20 Aug.,Leicester City,Arsenal,0,1
+Sat. 20 Aug.,Arsenal,Leicester City,0,0
+Sun. 21 Aug.,Sunderland,Middlesbrough,1,1
+Sun. 21 Aug.,Middlesbrough,Sunderland,2,0
+Sun. 21 Aug.,West Ham Utd,Bournemouth,1,1
+Sun. 21 Aug.,Bournemouth,West Ham Utd,0,0
+Sat. 27 Aug.,Tottenham,Liverpool,1,1
+Sat. 27 Aug.,Liverpool,Tottenham,1,0
+Sat. 27 Aug.,Crystal Palace,Bournemouth,1,1
+Sat. 27 Aug.,Bournemouth,Crystal Palace,1,0
+Sat. 27 Aug.,Chelsea,Burnley,3,1
+Sat. 27 Aug.,Burnley,Chelsea,0,0
+Sat. 27 Aug.,Southampton,Sunderland,1,1
+Sat. 27 Aug.,Sunderland,Southampton,1,0
+Sat. 27 Aug.,Leicester City,Swansea City,2,1
+Sat. 27 Aug.,Swansea City,Leicester City,1,0
+Sat. 27 Aug.,Everton,Stoke City,1,1
+Sat. 27 Aug.,Stoke City,Everton,0,0
+Sat. 27 Aug.,Watford,Arsenal,1,1
+Sat. 27 Aug.,Arsenal,Watford,3,0
+Sat. 27 Aug.,Hull City,Manchester Utd,0,1
+Sat. 27 Aug.,Manchester Utd,Hull City,1,0
+Sun. 28 Aug.,West Bromwich,Middlesbrough,0,1
+Sun. 28 Aug.,Middlesbrough,West Bromwich,0,0
+Sun. 28 Aug.,Manchester City,West Ham Utd,3,1
+Sun. 28 Aug.,West Ham Utd,Manchester City,1,0
+Sat. 10 Sep.,Manchester Utd,Manchester City,1,1
+Sat. 10 Sep.,Manchester City,Manchester Utd,2,0
+Sat. 10 Sep.,Bournemouth,West Bromwich,1,1
+Sat. 10 Sep.,West Bromwich,Bournemouth,0,0
+Sat. 10 Sep.,Middlesbrough,Crystal Palace,1,1
+Sat. 10 Sep.,Crystal Palace,Middlesbrough,2,0
+Sat. 10 Sep.,Stoke City,Tottenham,0,1
+Sat. 10 Sep.,Tottenham,Stoke City,4,0
+Sat. 10 Sep.,West Ham Utd,Watford,2,1
+Sat. 10 Sep.,Watford,West Ham Utd,4,0
+Sat. 10 Sep.,Burnley,Hull City,1,1
+Sat. 10 Sep.,Hull City,Burnley,1,0
+Sat. 10 Sep.,Arsenal,Southampton,2,1
+Sat. 10 Sep.,Southampton,Arsenal,1,0
+Sat. 10 Sep.,Liverpool,Leicester City,4,1
+Sat. 10 Sep.,Leicester City,Liverpool,1,0
+Sun. 11 Sep.,Swansea City,Chelsea,2,1
+Sun. 11 Sep.,Chelsea,Swansea City,2,0
+Mon. 12 Sep.,Sunderland,Everton,0,1
+Mon. 12 Sep.,Everton,Sunderland,3,0
+Fri. 16 Sep.,Chelsea,Liverpool,1,1
+Fri. 16 Sep.,Liverpool,Chelsea,2,0
+Sat. 17 Sep.,Manchester City,Bournemouth,4,1
+Sat. 17 Sep.,Bournemouth,Manchester City,0,0
+Sat. 17 Sep.,West Bromwich,West Ham Utd,4,1
+Sat. 17 Sep.,West Ham Utd,West Bromwich,2,0
+Sat. 17 Sep.,Hull City,Arsenal,1,1
+Sat. 17 Sep.,Arsenal,Hull City,4,0
+Sat. 17 Sep.,Leicester City,Burnley,3,1
+Sat. 17 Sep.,Burnley,Leicester City,0,0
+Sat. 17 Sep.,Everton,Middlesbrough,3,1
+Sat. 17 Sep.,Middlesbrough,Everton,1,0
+Sun. 18 Sep.,Watford,Manchester Utd,3,1
+Sun. 18 Sep.,Manchester Utd,Watford,1,0
+Sun. 18 Sep.,Southampton,Swansea City,1,1
+Sun. 18 Sep.,Swansea City,Southampton,0,0
+Sun. 18 Sep.,Crystal Palace,Stoke City,4,1
+Sun. 18 Sep.,Stoke City,Crystal Palace,1,0
+Sun. 18 Sep.,Tottenham,Sunderland,1,1
+Sun. 18 Sep.,Sunderland,Tottenham,0,0
+Sat. 24 Sep.,Manchester Utd,Leicester City,4,1
+Sat. 24 Sep.,Leicester City,Manchester Utd,1,0
+Sat. 24 Sep.,Middlesbrough,Tottenham,1,1
+Sat. 24 Sep.,Tottenham,Middlesbrough,2,0
+Sat. 24 Sep.,Stoke City,West Bromwich,1,1
+Sat. 24 Sep.,West Bromwich,Stoke City,1,0
+Sat. 24 Sep.,Swansea City,Manchester City,1,1
+Sat. 24 Sep.,Manchester City,Swansea City,3,0
+Sat. 24 Sep.,Liverpool,Hull City,5,1
+Sat. 24 Sep.,Hull City,Liverpool,1,0
+Sat. 24 Sep.,Sunderland,Crystal Palace,2,1
+Sat. 24 Sep.,Crystal Palace,Sunderland,3,0
+Sat. 24 Sep.,Bournemouth,Everton,1,1
+Sat. 24 Sep.,Everton,Bournemouth,0,0
+Sat. 24 Sep.,Arsenal,Chelsea,3,1
+Sat. 24 Sep.,Chelsea,Arsenal,0,0
+Sun. 25 Sep.,West Ham Utd,Southampton,0,1
+Sun. 25 Sep.,Southampton,West Ham Utd,3,0
+Mon. 26 Sep.,Burnley,Watford,2,1
+Mon. 26 Sep.,Watford,Burnley,0,0
+Fri. 30 Sep.,Everton,Crystal Palace,1,1
+Fri. 30 Sep.,Crystal Palace,Everton,1,0
+Sat. 1 Oct.,Swansea City,Liverpool,1,1
+Sat. 1 Oct.,Liverpool,Swansea City,2,0
+Sat. 1 Oct.,Hull City,Chelsea,0,1
+Sat. 1 Oct.,Chelsea,Hull City,2,0
+Sat. 1 Oct.,Watford,Bournemouth,2,1
+Sat. 1 Oct.,Bournemouth,Watford,2,0
+Sat. 1 Oct.,Sunderland,West Bromwich,1,1
+Sat. 1 Oct.,West Bromwich,Sunderland,1,0
+Sat. 1 Oct.,West Ham Utd,Middlesbrough,1,1
+Sat. 1 Oct.,Middlesbrough,West Ham Utd,1,0
+Sun. 2 Oct.,Manchester Utd,Stoke City,1,1
+Sun. 2 Oct.,Stoke City,Manchester Utd,1,0
+Sun. 2 Oct.,Tottenham,Manchester City,2,1
+Sun. 2 Oct.,Manchester City,Tottenham,0,0
+Sun. 2 Oct.,Leicester City,Southampton,0,1
+Sun. 2 Oct.,Southampton,Leicester City,0,0
+Sun. 2 Oct.,Burnley,Arsenal,0,1
+Sun. 2 Oct.,Arsenal,Burnley,1,0
+Sat. 15 Oct.,Chelsea,Leicester City,3,1
+Sat. 15 Oct.,Leicester City,Chelsea,0,0
+Sat. 15 Oct.,Bournemouth,Hull City,6,1
+Sat. 15 Oct.,Hull City,Bournemouth,1,0
+Sat. 15 Oct.,Stoke City,Sunderland,2,1
+Sat. 15 Oct.,Sunderland,Stoke City,0,0
+Sat. 15 Oct.,Arsenal,Swansea City,3,1
+Sat. 15 Oct.,Swansea City,Arsenal,2,0
+Sat. 15 Oct.,Manchester City,Everton,1,1
+Sat. 15 Oct.,Everton,Manchester City,1,0
+Sat. 15 Oct.,West Bromwich,Tottenham,1,1
+Sat. 15 Oct.,Tottenham,West Bromwich,1,0
+Sat. 15 Oct.,Crystal Palace,West Ham Utd,0,1
+Sat. 15 Oct.,West Ham Utd,Crystal Palace,1,0
+Sun. 16 Oct.,Middlesbrough,Watford,0,1
+Sun. 16 Oct.,Watford,Middlesbrough,1,0
+Sun. 16 Oct.,Southampton,Burnley,3,1
+Sun. 16 Oct.,Burnley,Southampton,1,0
+Mon. 17 Oct.,Liverpool,Manchester Utd,0,1
+Mon. 17 Oct.,Manchester Utd,Liverpool,0,0
+Sat. 22 Oct.,Bournemouth,Tottenham,0,1
+Sat. 22 Oct.,Tottenham,Bournemouth,0,0
+Sat. 22 Oct.,West Ham Utd,Sunderland,1,1
+Sat. 22 Oct.,Sunderland,West Ham Utd,0,0
+Sat. 22 Oct.,Swansea City,Watford,0,1
+Sat. 22 Oct.,Watford,Swansea City,0,0
+Sat. 22 Oct.,Leicester City,Crystal Palace,3,1
+Sat. 22 Oct.,Crystal Palace,Leicester City,1,0
+Sat. 22 Oct.,Arsenal,Middlesbrough,0,1
+Sat. 22 Oct.,Middlesbrough,Arsenal,0,0
+Sat. 22 Oct.,Burnley,Everton,2,1
+Sat. 22 Oct.,Everton,Burnley,1,0
+Sat. 22 Oct.,Hull City,Stoke City,0,1
+Sat. 22 Oct.,Stoke City,Hull City,2,0
+Sat. 22 Oct.,Liverpool,West Bromwich,2,1
+Sat. 22 Oct.,West Bromwich,Liverpool,1,0
+Sun. 23 Oct.,Manchester City,Southampton,1,1
+Sun. 23 Oct.,Southampton,Manchester City,1,0
+Sun. 23 Oct.,Chelsea,Manchester Utd,4,1
+Sun. 23 Oct.,Manchester Utd,Chelsea,0,0
+Sat. 29 Oct.,Sunderland,Arsenal,1,1
+Sat. 29 Oct.,Arsenal,Sunderland,4,0
+Sat. 29 Oct.,Middlesbrough,Bournemouth,2,1
+Sat. 29 Oct.,Bournemouth,Middlesbrough,0,0
+Sat. 29 Oct.,Tottenham,Leicester City,1,1
+Sat. 29 Oct.,Leicester City,Tottenham,1,0
+Sat. 29 Oct.,West Bromwich,Manchester City,0,1
+Sat. 29 Oct.,Manchester City,West Bromwich,4,0
+Sat. 29 Oct.,Manchester Utd,Burnley,0,1
+Sat. 29 Oct.,Burnley,Manchester Utd,0,0
+Sat. 29 Oct.,Watford,Hull City,1,1
+Sat. 29 Oct.,Hull City,Watford,0,0
+Sat. 29 Oct.,Crystal Palace,Liverpool,2,1
+Sat. 29 Oct.,Liverpool,Crystal Palace,4,0
+Sun. 30 Oct.,Everton,West Ham Utd,2,1
+Sun. 30 Oct.,West Ham Utd,Everton,0,0
+Sun. 30 Oct.,Southampton,Chelsea,0,1
+Sun. 30 Oct.,Chelsea,Southampton,2,0
+Mon. 31 Oct.,Stoke City,Swansea City,3,1
+Mon. 31 Oct.,Swansea City,Stoke City,1,0
+Sat. 5 Nov.,Bournemouth,Sunderland,1,1
+Sat. 5 Nov.,Sunderland,Bournemouth,2,0
+Sat. 5 Nov.,West Ham Utd,Stoke City,1,1
+Sat. 5 Nov.,Stoke City,West Ham Utd,1,0
+Sat. 5 Nov.,Burnley,Crystal Palace,3,1
+Sat. 5 Nov.,Crystal Palace,Burnley,2,0
+Sat. 5 Nov.,Manchester City,Middlesbrough,1,1
+Sat. 5 Nov.,Middlesbrough,Manchester City,1,0
+Sat. 5 Nov.,Chelsea,Everton,5,1
+Sat. 5 Nov.,Everton,Chelsea,0,0
+Sun. 6 Nov.,Arsenal,Tottenham,1,1
+Sun. 6 Nov.,Tottenham,Arsenal,1,0
+Sun. 6 Nov.,Hull City,Southampton,2,1
+Sun. 6 Nov.,Southampton,Hull City,1,0
+Sun. 6 Nov.,Liverpool,Watford,6,1
+Sun. 6 Nov.,Watford,Liverpool,1,0
+Sun. 6 Nov.,Swansea City,Manchester Utd,1,1
+Sun. 6 Nov.,Manchester Utd,Swansea City,3,0
+Sun. 6 Nov.,Leicester City,West Bromwich,1,1
+Sun. 6 Nov.,West Bromwich,Leicester City,2,0
+Sat. 19 Nov.,Manchester Utd,Arsenal,1,1
+Sat. 19 Nov.,Arsenal,Manchester Utd,1,0
+Sat. 19 Nov.,Everton,Swansea City,1,1
+Sat. 19 Nov.,Swansea City,Everton,1,0
+Sat. 19 Nov.,Sunderland,Hull City,3,1
+Sat. 19 Nov.,Hull City,Sunderland,0,0
+Sat. 19 Nov.,Southampton,Liverpool,0,1
+Sat. 19 Nov.,Liverpool,Southampton,0,0
+Sat. 19 Nov.,Stoke City,Bournemouth,0,1
+Sat. 19 Nov.,Bournemouth,Stoke City,1,0
+Sat. 19 Nov.,Crystal Palace,Manchester City,1,1
+Sat. 19 Nov.,Manchester City,Crystal Palace,2,0
+Sat. 19 Nov.,Watford,Leicester City,2,1
+Sat. 19 Nov.,Leicester City,Watford,1,0
+Sat. 19 Nov.,Tottenham,West Ham Utd,3,1
+Sat. 19 Nov.,West Ham Utd,Tottenham,2,0
+Sun. 20 Nov.,Middlesbrough,Chelsea,0,1
+Sun. 20 Nov.,Chelsea,Middlesbrough,1,0
+Mon. 21 Nov.,West Bromwich,Burnley,4,1
+Mon. 21 Nov.,Burnley,West Bromwich,0,0
+Sat. 26 Nov.,Burnley,Manchester City,1,1
+Sat. 26 Nov.,Manchester City,Burnley,2,0
+Sat. 26 Nov.,Leicester City,Middlesbrough,2,1
+Sat. 26 Nov.,Middlesbrough,Leicester City,2,0
+Sat. 26 Nov.,Hull City,West Bromwich,1,1
+Sat. 26 Nov.,West Bromwich,Hull City,1,0
+Sat. 26 Nov.,Liverpool,Sunderland,2,1
+Sat. 26 Nov.,Sunderland,Liverpool,0,0
+Sat. 26 Nov.,Swansea City,Crystal Palace,5,1
+Sat. 26 Nov.,Crystal Palace,Swansea City,4,0
+Sat. 26 Nov.,Chelsea,Tottenham,2,1
+Sat. 26 Nov.,Tottenham,Chelsea,1,0
+Sun. 27 Nov.,Watford,Stoke City,0,1
+Sun. 27 Nov.,Stoke City,Watford,1,0
+Sun. 27 Nov.,Arsenal,Bournemouth,3,1
+Sun. 27 Nov.,Bournemouth,Arsenal,1,0
+Sun. 27 Nov.,Manchester Utd,West Ham Utd,1,1
+Sun. 27 Nov.,West Ham Utd,Manchester Utd,1,0
+Sun. 27 Nov.,Southampton,Everton,1,1
+Sun. 27 Nov.,Everton,Southampton,0,0
+Sat. 3 Dec.,Manchester City,Chelsea,1,1
+Sat. 3 Dec.,Chelsea,Manchester City,3,0
+Sat. 3 Dec.,Sunderland,Leicester City,2,1
+Sat. 3 Dec.,Leicester City,Sunderland,1,0
+Sat. 3 Dec.,Tottenham,Swansea City,5,1
+Sat. 3 Dec.,Swansea City,Tottenham,0,0
+Sat. 3 Dec.,Crystal Palace,Southampton,3,1
+Sat. 3 Dec.,Southampton,Crystal Palace,0,0
+Sat. 3 Dec.,Stoke City,Burnley,2,1
+Sat. 3 Dec.,Burnley,Stoke City,0,0
+Sat. 3 Dec.,West Bromwich,Watford,3,1
+Sat. 3 Dec.,Watford,West Bromwich,1,0
+Sat. 3 Dec.,West Ham Utd,Arsenal,1,1
+Sat. 3 Dec.,Arsenal,West Ham Utd,5,0
+Sun. 4 Dec.,Bournemouth,Liverpool,4,1
+Sun. 4 Dec.,Liverpool,Bournemouth,3,0
+Sun. 4 Dec.,Everton,Manchester Utd,1,1
+Sun. 4 Dec.,Manchester Utd,Everton,1,0
+Mon. 5 Dec.,Middlesbrough,Hull City,1,1
+Mon. 5 Dec.,Hull City,Middlesbrough,0,0
+Sat. 10 Dec.,Watford,Everton,3,1
+Sat. 10 Dec.,Everton,Watford,2,0
+Sat. 10 Dec.,Arsenal,Stoke City,3,1
+Sat. 10 Dec.,Stoke City,Arsenal,1,0
+Sat. 10 Dec.,Hull City,Crystal Palace,3,1
+Sat. 10 Dec.,Crystal Palace,Hull City,3,0
+Sat. 10 Dec.,Burnley,Bournemouth,3,1
+Sat. 10 Dec.,Bournemouth,Burnley,2,0
+Sat. 10 Dec.,Swansea City,Sunderland,3,1
+Sat. 10 Dec.,Sunderland,Swansea City,0,0
+Sat. 10 Dec.,Leicester City,Manchester City,4,1
+Sat. 10 Dec.,Manchester City,Leicester City,2,0
+Sun. 11 Dec.,Chelsea,West Bromwich,1,1
+Sun. 11 Dec.,West Bromwich,Chelsea,0,0
+Sun. 11 Dec.,Manchester Utd,Tottenham,1,1
+Sun. 11 Dec.,Tottenham,Manchester Utd,0,0
+Sun. 11 Dec.,Southampton,Middlesbrough,1,1
+Sun. 11 Dec.,Middlesbrough,Southampton,0,0
+Sun. 11 Dec.,Liverpool,West Ham Utd,2,1
+Sun. 11 Dec.,West Ham Utd,Liverpool,2,0
+Tue. 13 Dec.,Everton,Arsenal,2,1
+Tue. 13 Dec.,Arsenal,Everton,1,0
+Tue. 13 Dec.,Bournemouth,Leicester City,1,1
+Tue. 13 Dec.,Leicester City,Bournemouth,0,0
+Wed. 14 Dec.,Middlesbrough,Liverpool,0,1
+Wed. 14 Dec.,Liverpool,Middlesbrough,3,0
+Wed. 14 Dec.,Sunderland,Chelsea,0,1
+Wed. 14 Dec.,Chelsea,Sunderland,1,0
+Wed. 14 Dec.,West Ham Utd,Burnley,1,1
+Wed. 14 Dec.,Burnley,West Ham Utd,0,0
+Wed. 14 Dec.,West Bromwich,Swansea City,3,1
+Wed. 14 Dec.,Swansea City,West Bromwich,1,0
+Wed. 14 Dec.,Manchester City,Watford,2,1
+Wed. 14 Dec.,Watford,Manchester City,0,0
+Wed. 14 Dec.,Stoke City,Southampton,0,1
+Wed. 14 Dec.,Southampton,Stoke City,0,0
+Wed. 14 Dec.,Tottenham,Hull City,3,1
+Wed. 14 Dec.,Hull City,Tottenham,0,0
+Wed. 14 Dec.,Crystal Palace,Manchester Utd,1,1
+Wed. 14 Dec.,Manchester Utd,Crystal Palace,2,0
+Sat. 17 Dec.,Crystal Palace,Chelsea,0,1
+Sat. 17 Dec.,Chelsea,Crystal Palace,1,0
+Sat. 17 Dec.,Middlesbrough,Swansea City,3,1
+Sat. 17 Dec.,Swansea City,Middlesbrough,0,0
+Sat. 17 Dec.,Stoke City,Leicester City,2,1
+Sat. 17 Dec.,Leicester City,Stoke City,2,0
+Sat. 17 Dec.,Sunderland,Watford,1,1
+Sat. 17 Dec.,Watford,Sunderland,0,0
+Sat. 17 Dec.,West Ham Utd,Hull City,1,1
+Sat. 17 Dec.,Hull City,West Ham Utd,0,0
+Sat. 17 Dec.,West Bromwich,Manchester Utd,0,1
+Sat. 17 Dec.,Manchester Utd,West Bromwich,2,0
+Sun. 18 Dec.,Bournemouth,Southampton,1,1
+Sun. 18 Dec.,Southampton,Bournemouth,3,0
+Sun. 18 Dec.,Tottenham,Burnley,2,1
+Sun. 18 Dec.,Burnley,Tottenham,1,0
+Sun. 18 Dec.,Manchester City,Arsenal,2,1
+Sun. 18 Dec.,Arsenal,Manchester City,1,0
+Mon. 19 Dec.,Everton,Liverpool,0,1
+Mon. 19 Dec.,Liverpool,Everton,1,0
+Mon. 26 Dec.,Watford,Crystal Palace,1,1
+Mon. 26 Dec.,Crystal Palace,Watford,1,0
+Mon. 26 Dec.,Leicester City,Everton,0,1
+Mon. 26 Dec.,Everton,Leicester City,2,0
+Mon. 26 Dec.,Manchester Utd,Sunderland,3,1
+Mon. 26 Dec.,Sunderland,Manchester Utd,1,0
+Mon. 26 Dec.,Arsenal,West Bromwich,1,1
+Mon. 26 Dec.,West Bromwich,Arsenal,0,0
+Mon. 26 Dec.,Burnley,Middlesbrough,1,1
+Mon. 26 Dec.,Middlesbrough,Burnley,0,0
+Mon. 26 Dec.,Swansea City,West Ham Utd,1,1
+Mon. 26 Dec.,West Ham Utd,Swansea City,4,0
+Mon. 26 Dec.,Chelsea,Bournemouth,3,1
+Mon. 26 Dec.,Bournemouth,Chelsea,0,0
+Mon. 26 Dec.,Hull City,Manchester City,0,1
+Mon. 26 Dec.,Manchester City,Hull City,3,0
+Tue. 27 Dec.,Liverpool,Stoke City,4,1
+Tue. 27 Dec.,Stoke City,Liverpool,1,0
+Wed. 28 Dec.,Southampton,Tottenham,1,1
+Wed. 28 Dec.,Tottenham,Southampton,4,0
+Fri. 30 Dec.,Hull City,Everton,2,1
+Fri. 30 Dec.,Everton,Hull City,2,0
+Sat. 31 Dec.,Leicester City,West Ham Utd,1,1
+Sat. 31 Dec.,West Ham Utd,Leicester City,0,0
+Sat. 31 Dec.,Manchester Utd,Middlesbrough,2,1
+Sat. 31 Dec.,Middlesbrough,Manchester Utd,1,0
+Sat. 31 Dec.,Chelsea,Stoke City,4,1
+Sat. 31 Dec.,Stoke City,Chelsea,2,0
+Sat. 31 Dec.,Swansea City,Bournemouth,0,1
+Sat. 31 Dec.,Bournemouth,Swansea City,3,0
+Sat. 31 Dec.,Burnley,Sunderland,4,1
+Sat. 31 Dec.,Sunderland,Burnley,1,0
+Sat. 31 Dec.,Southampton,West Bromwich,1,1
+Sat. 31 Dec.,West Bromwich,Southampton,2,0
+Sat. 31 Dec.,Liverpool,Manchester City,1,1
+Sat. 31 Dec.,Manchester City,Liverpool,0,0
+Sun. 1 Jan.,Watford,Tottenham,1,1
+Sun. 1 Jan.,Tottenham,Watford,4,0
+Sun. 1 Jan.,Arsenal,Crystal Palace,2,1
+Sun. 1 Jan.,Crystal Palace,Arsenal,0,0
+Mon. 2 Jan.,Middlesbrough,Leicester City,0,1
+Mon. 2 Jan.,Leicester City,Middlesbrough,0,0
+Mon. 2 Jan.,West Bromwich,Hull City,3,1
+Mon. 2 Jan.,Hull City,West Bromwich,1,0
+Mon. 2 Jan.,Everton,Southampton,3,1
+Mon. 2 Jan.,Southampton,Everton,0,0
+Mon. 2 Jan.,Manchester City,Burnley,2,1
+Mon. 2 Jan.,Burnley,Manchester City,1,0
+Mon. 2 Jan.,Sunderland,Liverpool,2,1
+Mon. 2 Jan.,Liverpool,Sunderland,2,0
+Mon. 2 Jan.,West Ham Utd,Manchester Utd,0,1
+Mon. 2 Jan.,Manchester Utd,West Ham Utd,2,0
+Tue. 3 Jan.,Bournemouth,Arsenal,3,1
+Tue. 3 Jan.,Arsenal,Bournemouth,3,0
+Tue. 3 Jan.,Crystal Palace,Swansea City,1,1
+Tue. 3 Jan.,Swansea City,Crystal Palace,2,0
+Tue. 3 Jan.,Stoke City,Watford,2,1
+Tue. 3 Jan.,Watford,Stoke City,0,0
+Wed. 4 Jan.,Tottenham,Chelsea,2,1
+Wed. 4 Jan.,Chelsea,Tottenham,0,0
+Sat. 14 Jan.,Tottenham,West Bromwich,4,1
+Sat. 14 Jan.,West Bromwich,Tottenham,0,0
+Sat. 14 Jan.,Watford,Middlesbrough,0,1
+Sat. 14 Jan.,Middlesbrough,Watford,0,0
+Sat. 14 Jan.,Sunderland,Stoke City,1,1
+Sat. 14 Jan.,Stoke City,Sunderland,3,0
+Sat. 14 Jan.,Hull City,Bournemouth,3,1
+Sat. 14 Jan.,Bournemouth,Hull City,1,0
+Sat. 14 Jan.,Burnley,Southampton,1,1
+Sat. 14 Jan.,Southampton,Burnley,0,0
+Sat. 14 Jan.,Swansea City,Arsenal,0,1
+Sat. 14 Jan.,Arsenal,Swansea City,4,0
+Sat. 14 Jan.,West Ham Utd,Crystal Palace,3,1
+Sat. 14 Jan.,Crystal Palace,West Ham Utd,0,0
+Sat. 14 Jan.,Leicester City,Chelsea,0,1
+Sat. 14 Jan.,Chelsea,Leicester City,3,0
+Sun. 15 Jan.,Everton,Manchester City,4,1
+Sun. 15 Jan.,Manchester City,Everton,0,0
+Sun. 15 Jan.,Manchester Utd,Liverpool,1,1
+Sun. 15 Jan.,Liverpool,Manchester Utd,1,0
+Sat. 21 Jan.,Liverpool,Swansea City,2,1
+Sat. 21 Jan.,Swansea City,Liverpool,3,0
+Sat. 21 Jan.,Stoke City,Manchester Utd,1,1
+Sat. 21 Jan.,Manchester Utd,Stoke City,1,0
+Sat. 21 Jan.,West Bromwich,Sunderland,2,1
+Sat. 21 Jan.,Sunderland,West Bromwich,0,0
+Sat. 21 Jan.,Crystal Palace,Everton,0,1
+Sat. 21 Jan.,Everton,Crystal Palace,1,0
+Sat. 21 Jan.,Bournemouth,Watford,2,1
+Sat. 21 Jan.,Watford,Bournemouth,2,0
+Sat. 21 Jan.,Middlesbrough,West Ham Utd,1,1
+Sat. 21 Jan.,West Ham Utd,Middlesbrough,3,0
+Sat. 21 Jan.,Manchester City,Tottenham,2,1
+Sat. 21 Jan.,Tottenham,Manchester City,2,0
+Sun. 22 Jan.,Southampton,Leicester City,3,1
+Sun. 22 Jan.,Leicester City,Southampton,0,0
+Sun. 22 Jan.,Arsenal,Burnley,2,1
+Sun. 22 Jan.,Burnley,Arsenal,1,0
+Sun. 22 Jan.,Chelsea,Hull City,2,1
+Sun. 22 Jan.,Hull City,Chelsea,0,0
+Tue. 31 Jan.,Bournemouth,Crystal Palace,0,1
+Tue. 31 Jan.,Crystal Palace,Bournemouth,2,0
+Tue. 31 Jan.,Sunderland,Tottenham,0,1
+Tue. 31 Jan.,Tottenham,Sunderland,0,0
+Tue. 31 Jan.,Burnley,Leicester City,1,1
+Tue. 31 Jan.,Leicester City,Burnley,0,0
+Tue. 31 Jan.,Arsenal,Watford,1,1
+Tue. 31 Jan.,Watford,Arsenal,2,0
+Tue. 31 Jan.,Swansea City,Southampton,2,1
+Tue. 31 Jan.,Southampton,Swansea City,1,0
+Tue. 31 Jan.,Middlesbrough,West Bromwich,1,1
+Tue. 31 Jan.,West Bromwich,Middlesbrough,1,0
+Tue. 31 Jan.,Liverpool,Chelsea,1,1
+Tue. 31 Jan.,Chelsea,Liverpool,1,0
+Wed. 1 Feb.,West Ham Utd,Manchester City,0,1
+Wed. 1 Feb.,Manchester City,West Ham Utd,4,0
+Wed. 1 Feb.,Manchester Utd,Hull City,0,1
+Wed. 1 Feb.,Hull City,Manchester Utd,0,0
+Wed. 1 Feb.,Stoke City,Everton,1,1
+Wed. 1 Feb.,Everton,Stoke City,1,0
+Sat. 4 Feb.,Chelsea,Arsenal,3,1
+Sat. 4 Feb.,Arsenal,Chelsea,1,0
+Sat. 4 Feb.,Watford,Burnley,2,1
+Sat. 4 Feb.,Burnley,Watford,1,0
+Sat. 4 Feb.,Everton,Bournemouth,6,1
+Sat. 4 Feb.,Bournemouth,Everton,3,0
+Sat. 4 Feb.,West Bromwich,Stoke City,1,1
+Sat. 4 Feb.,Stoke City,West Bromwich,0,0
+Sat. 4 Feb.,Hull City,Liverpool,2,1
+Sat. 4 Feb.,Liverpool,Hull City,0,0
+Sat. 4 Feb.,Southampton,West Ham Utd,1,1
+Sat. 4 Feb.,West Ham Utd,Southampton,3,0
+Sat. 4 Feb.,Crystal Palace,Sunderland,0,1
+Sat. 4 Feb.,Sunderland,Crystal Palace,4,0
+Sat. 4 Feb.,Tottenham,Middlesbrough,1,1
+Sat. 4 Feb.,Middlesbrough,Tottenham,0,0
+Sun. 5 Feb.,Manchester City,Swansea City,2,1
+Sun. 5 Feb.,Swansea City,Manchester City,1,0
+Sun. 5 Feb.,Leicester City,Manchester Utd,0,1
+Sun. 5 Feb.,Manchester Utd,Leicester City,3,0
+Sat. 11 Feb.,Arsenal,Hull City,2,1
+Sat. 11 Feb.,Hull City,Arsenal,0,0
+Sat. 11 Feb.,Sunderland,Southampton,0,1
+Sat. 11 Feb.,Southampton,Sunderland,4,0
+Sat. 11 Feb.,Stoke City,Crystal Palace,1,1
+Sat. 11 Feb.,Crystal Palace,Stoke City,0,0
+Sat. 11 Feb.,Manchester Utd,Watford,2,1
+Sat. 11 Feb.,Watford,Manchester Utd,0,0
+Sat. 11 Feb.,West Ham Utd,West Bromwich,2,1
+Sat. 11 Feb.,West Bromwich,West Ham Utd,2,0
+Sat. 11 Feb.,Middlesbrough,Everton,0,1
+Sat. 11 Feb.,Everton,Middlesbrough,0,0
+Sat. 11 Feb.,Liverpool,Tottenham,2,1
+Sat. 11 Feb.,Tottenham,Liverpool,0,0
+Sun. 12 Feb.,Burnley,Chelsea,1,1
+Sun. 12 Feb.,Chelsea,Burnley,1,0
+Sun. 12 Feb.,Swansea City,Leicester City,2,1
+Sun. 12 Feb.,Leicester City,Swansea City,0,0
+Mon. 13 Feb.,Bournemouth,Manchester City,0,1
+Mon. 13 Feb.,Manchester City,Bournemouth,2,0
+Sat. 25 Feb.,West Bromwich,Bournemouth,2,1
+Sat. 25 Feb.,Bournemouth,West Bromwich,1,0
+Sat. 25 Feb.,Hull City,Burnley,1,1
+Sat. 25 Feb.,Burnley,Hull City,1,0
+Sat. 25 Feb.,Everton,Sunderland,2,1
+Sat. 25 Feb.,Sunderland,Everton,0,0
+Sat. 25 Feb.,Crystal Palace,Middlesbrough,1,1
+Sat. 25 Feb.,Middlesbrough,Crystal Palace,0,0
+Sat. 25 Feb.,Chelsea,Swansea City,3,1
+Sat. 25 Feb.,Swansea City,Chelsea,1,0
+Sat. 25 Feb.,Watford,West Ham Utd,1,1
+Sat. 25 Feb.,West Ham Utd,Watford,1,0
+Sun. 26 Feb.,Tottenham,Stoke City,4,1
+Sun. 26 Feb.,Stoke City,Tottenham,0,0
+Mon. 27 Feb.,Leicester City,Liverpool,3,1
+Mon. 27 Feb.,Liverpool,Leicester City,1,0
+Sat. 4 Mar.,Manchester Utd,Bournemouth,1,1
+Sat. 4 Mar.,Bournemouth,Manchester Utd,1,0
+Sat. 4 Mar.,Leicester City,Hull City,3,1
+Sat. 4 Mar.,Hull City,Leicester City,1,0
+Sat. 4 Mar.,West Bromwich,Crystal Palace,0,1
+Sat. 4 Mar.,Crystal Palace,West Bromwich,2,0
+Sat. 4 Mar.,Watford,Southampton,3,1
+Sat. 4 Mar.,Southampton,Watford,4,0
+Sat. 4 Mar.,Stoke City,Middlesbrough,2,1
+Sat. 4 Mar.,Middlesbrough,Stoke City,0,0
+Sat. 4 Mar.,Swansea City,Burnley,3,1
+Sat. 4 Mar.,Burnley,Swansea City,2,0
+Sat. 4 Mar.,Liverpool,Arsenal,3,1
+Sat. 4 Mar.,Arsenal,Liverpool,1,0
+Sun. 5 Mar.,Tottenham,Everton,3,1
+Sun. 5 Mar.,Everton,Tottenham,2,0
+Sun. 5 Mar.,Sunderland,Manchester City,0,1
+Sun. 5 Mar.,Manchester City,Sunderland,2,0
+Mon. 6 Mar.,West Ham Utd,Chelsea,1,1
+Mon. 6 Mar.,Chelsea,West Ham Utd,2,0
+Wed. 8 Mar.,Manchester City,Stoke City,0,1
+Wed. 8 Mar.,Stoke City,Manchester City,0,0
+Sat. 11 Mar.,Everton,West Bromwich,3,1
+Sat. 11 Mar.,West Bromwich,Everton,0,0
+Sat. 11 Mar.,Bournemouth,West Ham Utd,3,1
+Sat. 11 Mar.,West Ham Utd,Bournemouth,2,0
+Sat. 11 Mar.,Hull City,Swansea City,2,1
+Sat. 11 Mar.,Swansea City,Hull City,1,0
+Sun. 12 Mar.,Liverpool,Burnley,2,1
+Sun. 12 Mar.,Burnley,Liverpool,1,0
+Sat. 18 Mar.,West Bromwich,Arsenal,3,1
+Sat. 18 Mar.,Arsenal,West Bromwich,1,0
+Sat. 18 Mar.,Stoke City,Chelsea,1,1
+Sat. 18 Mar.,Chelsea,Stoke City,2,0
+Sat. 18 Mar.,Sunderland,Burnley,0,1
+Sat. 18 Mar.,Burnley,Sunderland,0,0
+Sat. 18 Mar.,Crystal Palace,Watford,1,1
+Sat. 18 Mar.,Watford,Crystal Palace,0,0
+Sat. 18 Mar.,Everton,Hull City,4,1
+Sat. 18 Mar.,Hull City,Everton,0,0
+Sat. 18 Mar.,West Ham Utd,Leicester City,2,1
+Sat. 18 Mar.,Leicester City,West Ham Utd,3,0
+Sat. 18 Mar.,Bournemouth,Swansea City,2,1
+Sat. 18 Mar.,Swansea City,Bournemouth,0,0
+Sun. 19 Mar.,Middlesbrough,Manchester Utd,1,1
+Sun. 19 Mar.,Manchester Utd,Middlesbrough,3,0
+Sun. 19 Mar.,Tottenham,Southampton,2,1
+Sun. 19 Mar.,Southampton,Tottenham,1,0
+Sun. 19 Mar.,Manchester City,Liverpool,1,1
+Sun. 19 Mar.,Liverpool,Manchester City,1,0
